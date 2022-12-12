@@ -1,6 +1,6 @@
 # qrinvite
 
-<h1>Invitation system with QR feature <small>ongoing</small></h1>
+<h1>Invitation system with QR feature -ongoing</h1>
 
 Saw a job post on Upwork
 
